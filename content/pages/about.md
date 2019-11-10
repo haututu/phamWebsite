@@ -4,9 +4,6 @@ permalink: /about/
 title: About
 ---
 
-
-
-
 Hugo cards is a Bootstrap based theme ported from the Jekyll theme [Webjeda-cards](https://webjeda.com/cards/). Any Bootstrap element can be used in the theme.
 
 For more themes, visit [Hugo Themes](https://themes.gohugo.io/)
