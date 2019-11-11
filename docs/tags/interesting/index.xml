@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Psychological Health and Methods</title>
-    <link>/</link>
-    <description>Recent content on Psychological Health and Methods</description>
+    <title>interesting on Psychological Health and Methods</title>
+    <link>/tags/interesting/</link>
+    <description>Recent content in interesting on Psychological Health and Methods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -91,24 +91,6 @@
       
       <guid>/blog/my-first-post/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
-      <link>/static/imprint/</link>
-      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
-      
-      <guid>/static/imprint/</guid>
-      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
     </item>
     
   </channel>

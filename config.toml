@@ -4,6 +4,7 @@ title = "Psychological Health and Methods"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "John Doe - All rights reserved"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "your-shortname-here"
