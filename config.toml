@@ -41,10 +41,15 @@ Currently trying to get this blog running, still don't know what the blog will b
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Research"
     weight = 100
-    identifier = "blog"
-    url = "/blog"
+    identifier = "research"
+    url = "/research"
+[[menu.main]]
+    name = "Methods"
+    weight = 100
+    identifier = "methods"
+    url = "/methods"
 [[menu.main]]
     name = "About Me"
     identifier = "about"
