@@ -42,7 +42,7 @@ We also produce tutorials and introductions on the latest methods and statistica
 ## Main Menu
 [[menu.main]]
     name = "Research"
-    weight = 100
+    weight = 80
     identifier = "research"
     url = "/research"
 [[menu.main]]
@@ -51,7 +51,7 @@ We also produce tutorials and introductions on the latest methods and statistica
     identifier = "methods"
     url = "/methods"
 [[menu.main]]
-    name = "About Me"
+    name = "About"
     identifier = "about"
     weight = 200
     url = "/"
