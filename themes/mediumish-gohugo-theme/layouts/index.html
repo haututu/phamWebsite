@@ -5,18 +5,24 @@
 {{ define "main" }}
     <div class="main-content">
         <header class="text-center">
-            {{ with .Site.Params.index.picture }}
-                <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
-            {{ end }}
             <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
         </header>
+        
+        <br>
 
         <section class="text-center">
             {{ with .Site.Params.index.subtitle }}
             <h3 class="index-sub">{{ . }}</h3>
             {{ end }}
+            
+            <br>
+            
             {{ with .Site.Params.index.mdtext }}
             <h6 class="index-text">{{ . | markdownify }}</h6>
+            {{ end }}
+            
+            {{ with .Site.Params.index.picture }}
+                <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image" style="width:120px;height:120px;">
             {{ end }}
         </section>
     </div>

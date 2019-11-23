@@ -16,8 +16,8 @@ publishDir = "public"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
-  thumbnail = "/images/author.png"
+  name = "PHAM"
+  thumbnail = "/images/logo.png"
   description = "Creator of this blog."
 
 [params.index]
