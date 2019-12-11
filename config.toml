@@ -16,18 +16,18 @@ publishDir = "public"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
-  thumbnail = "/images/author.png"
+  name = "PHAM"
+  thumbnail = "/images/logo.png"
   description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.png"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  picture = "/images/logo.png"
+  title = "Psychological Health and Methods"
+  subtitle = "See our latest research or take a look at some of our statistical overviews"
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+This site is hosted by a network of researchers in health psychology. \
+We provide the latest findings in our research and supplementary information from our recent publications. \
+We also produce tutorials and introductions on the latest methods and statistical analyses being used in our field.
 '''
   alertbar = false
 
@@ -42,7 +42,7 @@ Currently trying to get this blog running, still don't know what the blog will b
 ## Main Menu
 [[menu.main]]
     name = "Research"
-    weight = 100
+    weight = 80
     identifier = "research"
     url = "/research"
 [[menu.main]]
@@ -51,7 +51,7 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "methods"
     url = "/methods"
 [[menu.main]]
-    name = "About Me"
+    name = "About"
     identifier = "about"
     weight = 200
     url = "/"
